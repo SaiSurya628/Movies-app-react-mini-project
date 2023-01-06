@@ -1,0 +1,9 @@
+.list-item {
+  margin: 5px;
+  padding: 4px;
+}
+.image {
+  min-height: 150px;
+  min-width: 200px;
+  margin: 4px;
+}
