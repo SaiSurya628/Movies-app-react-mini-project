@@ -100,3 +100,20 @@
   border-radius: 10px;
   cursor: pointer;
 }
+@media screen and (max-width: 760px) {
+  .head-id {
+    font-size: 20px;
+  }
+  .listing {
+    font-size: 15px;
+  }
+  .general-head {
+    font-size: 20px;
+  }
+  .para-overview {
+    font-size: 17px;
+  }
+  .similar-head {
+    font-size: 25px;
+  }
+}

@@ -5,3 +5,9 @@ listing {
   width: 200px;
   height: 200px;
 }
+@media screen and (max-width: 768px) {
+  .imageOfFirst {
+    width: 80px;
+    height: 80px;
+  }
+}
